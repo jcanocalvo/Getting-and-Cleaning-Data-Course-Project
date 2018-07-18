@@ -101,6 +101,7 @@ meanFreq(): Weighted average of the frequency components to obtain a mean freque
 This is the summary of the data frame with descriptive variable names:
 
 'data.frame':	10299 obs. of  68 variables:
+
  $ timeBodyAccelerometer-mean()-X    
  $ timeBodyAccelerometer-mean()-Y      
  $ timeBodyAccelerometer-mean()-Z           
