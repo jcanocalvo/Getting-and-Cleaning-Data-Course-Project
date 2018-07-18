@@ -61,7 +61,7 @@ For more information about this dataset contact: activityrecognition@smartlab.ws
 
 
 
-Quoting from features_info.txt, here is an additional description of the variables:
+##Quoting from features_info.txt, here is an additional description of the variables:
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filt er with a corner frequency of 0.3 Hz.
 
@@ -118,7 +118,7 @@ meanFreq(): Weighted average of the frequency components to obtain a mean freque
 
 
 
-This is the summary of the data frame with descriptive variable names:
+#This is the summary of the data frame with descriptive variable names:
 'data.frame':	10299 obs. of  68 variables:
 
 [1] "timeBodyAccelerometer-mean()-X"                 "timeBodyAccelerometer-mean()-Y"                
